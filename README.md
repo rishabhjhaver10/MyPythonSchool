@@ -1,7 +1,7 @@
 # MyPythonSchool
-Contains assignments and projects from my data science course at University of Texas at Arlington.
+Contains homework assignments and from my data science course at University of Texas at Arlington.
 Duration of this course was 08/2016-12/2016.
-It contains 3 homeworks and 3 projects.
+It contains 4 homeworks.
 
 Homework 1.1 : This consists of 20 simple python problems.
 Homework 1.2 : This consists of 20 simple python functions to maipulate data in last.txt file.
