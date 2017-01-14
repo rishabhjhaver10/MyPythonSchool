@@ -1,3 +1,4 @@
+#returns a dictionary with the word count
 def make_word_count(file_name):
     infile = open(file_name, 'r')
     content = infile.read()
@@ -16,7 +17,7 @@ x = make_word_count('test.txt')
 print(x)
 
 
-
+#returns a dictionary with keys as the word length and values as the count
 def make_length_wordcount(file_name):
     infile = open(file_name, 'r')
     content = infile.read()
@@ -35,7 +36,7 @@ def make_length_wordcount(file_name):
 x = make_length_wordcount('test.txt')
 print(x)
 
-
+#uses the above two functions to return words count and the lenght of the word with the wrod count
 def analyze_text(file_name):
     infile = open(file_name, 'r')
     content = infile.read()
